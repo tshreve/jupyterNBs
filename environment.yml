@@ -1,0 +1,10 @@
+name: shreve-etal-2023-grl
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - pip:
+    - DateTime
