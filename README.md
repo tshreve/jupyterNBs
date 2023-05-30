@@ -1,6 +1,6 @@
 # jupyterNBs
 
-These Jupyter Notebooks produce Figures 4b,c in "Two distinct magma storage regions at Ambrym volcano detected by satellite geodesy," <em>Geophysical Research Letters</em> by T. Shreve, Y. Zhan, H. Le Mével, D. Roman, & Y. Moussallam (2023).
+This Jupyter Notebook produces Figures 4b,c in "Two distinct magma storage regions at Ambrym volcano detected by satellite geodesy," <em>Geophysical Research Letters</em> by T. Shreve, Y. Zhan, H. Le Mével, D. Roman, & Y. Moussallam (2023).
 
 ## reservoirConnectivity
 ### Pressure evolution in two hydraulically connected reservoirs
