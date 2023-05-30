@@ -5,6 +5,6 @@ These Jupyter Notebooks produce Figures 4b,c in "Two distinct magma storage regi
 ## reservoirConnectivity
 ### Pressure evolution in two hydraulically connected reservoirs
 
-This Jupyter Notebook and accompanying text files are used to run the two-reservoir analytical model. It can also be viewed [here](https://nbviewer.org/github/tshreve/jupyterNBs/blob/main/analytical_twoReservoirs_ambrym.ipynb). 
+This Jupyter Notebook and accompanying text files are used to run the two-reservoir analytical model. It can also be viewed [here](https://nbviewer.org/github/tshreve/jupyterNBs/blob/main/reservoirConnectivity/analytical_twoReservoirs_ambrym.ipynb). 
 
 This analytical model follows the formulation of T. Wang, Y. Zheng, F. Pulvirenti, & P. Segall (2021). "Post-2018 caldera collapse re-inflation uniquely constrains Kīlauea's magmatic system," *Journal of Geophysical Research: Solid Earth*, 126, e2021JB021803. https://doi.org/10.1029/2021JB021803.
